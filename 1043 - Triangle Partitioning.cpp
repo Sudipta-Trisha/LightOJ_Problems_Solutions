@@ -1,3 +1,4 @@
+//using bisection method//
 #include<bits/stdc++.h>
 using namespace std;
 
